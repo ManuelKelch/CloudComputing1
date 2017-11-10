@@ -1,0 +1,5 @@
+applications:
+- name: relaxed-aryabhata
+  memory: 128M
+  host: relaxed-aryabhata
+  buildpack: staticfile_buildpack
